@@ -104,15 +104,15 @@ You passed!
 
 2\. Download or copy the code
 
-3\. Run it using:
+3\. Run GradesAndAverage.py using any coder such as (PyCharm - VS code)
 
 
 
-GradesAndAverage.py
 
 
 
-(Or whatever name you saved the file as)
+
+
 
 
 
