@@ -108,7 +108,7 @@ You passed!
 
 
 
-python main.py
+GradesAndAverage.py
 
 
 
