@@ -126,7 +126,7 @@ You passed!
 
 .
 
-├── main.py        # Main Python file
+├── GradesAndAverage.py.py        # Main Python file
 
 └── README.txt     # This file
 
@@ -156,7 +156,7 @@ You passed!
 
 
 
-\## 🌟 Future Improvements (Planned)
+\## 🌟 Future Improvements (Maybe)
 
 
 
