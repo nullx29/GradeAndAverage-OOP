@@ -104,7 +104,7 @@ You passed!
 
 2\. Download or copy the code
 
-3\. Run GradesAndAverage.py using any coder such as (PyCharm - VS code)
+3\. Run GradesAndAverage.py using any IDE/Code Editor such as (PyCharm - VS code)
 
 
 
